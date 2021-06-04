@@ -32,7 +32,6 @@
 - `prepare.py` : 데이터셋 관련 모듈
 - `run.py` : 하이퍼 파라미터 튜닝또는 학습 관련 모듈
 - `slack.py` : 슬랙 알람 모듈
-- `test.html` : 버트 비즈 시각화 Example
 - `tokenization_kobert.py` : Kobert 토크나이저 모듈
 - `train.py` : 학습 관련 모듈
 - `utils.py` : 유틸 관련 모듈
